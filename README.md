@@ -1,1 +1,4 @@
-# goph619-w2023-lab00-stGP
+# GOPH 619 - Advanced Computational Methods for Geophysicists
+      *Semester:* W2023
+      *Instructor:* B. Karchewski
+      *Author: Gilles Pambou*
